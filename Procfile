@@ -1,1 +1,1 @@
-worker: python Google_Translator.py
+worker: python3 Google_Translator.py
